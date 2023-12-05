@@ -33,3 +33,12 @@ img {
   border: 5px solid #555;
   border-style: inset;
 }
+
+section {
+  background-color: #fff;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  max-width: 10000px;
+  display: block;
