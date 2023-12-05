@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@600&display=swap');
+body {
+  font-family: "Andale Mono", monospace;
+  background-color: #008B8B;
+}
+
+h1 {
+  font-size: 27px;
+  color: #026005;
+  padding: 10px;
+  text-decoration: underline;
+  font-family: "Jazz LET", fantasy;
+}
+
+th {
+  font-size: 20px;
+  font-famiy: #2F4F4F;
+  color: #e0cb09;
+}
+
+td {
+  font-family: "Andale Mono", monospace;
+  font-size: 15px;
+  color: #000000
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+  border: 5px solid #555;
+  border-style: inset;
+}
